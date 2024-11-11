@@ -31,9 +31,9 @@ export class GifsService {
     this.organizeHistory(tag);
 
     const params = new HttpParams()
-      .set('api_key', this.apiKey )
-      .set('limit', '10' )
-      .set('q', tag )
+      .set('api_key', this.apiKey)
+      .set('limit', '10')
+      .set('q', tag)
 
     this.http.get(`${ this.serviceUrl }/search`, { params })
       .subscribe( resp => {
