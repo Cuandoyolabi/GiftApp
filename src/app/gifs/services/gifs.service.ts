@@ -12,7 +12,16 @@ export class GifsService {
   }
 
   public searchTag( tag : string): void {
-    this._tagsHistory.unshift(tag);
+
+    tag = tag.trim().toLocaleLowerCase();
+
+    if(tag && !this._tagsHistory.includes(tag)){
+      this._tagsHistory.unshift(tag);
+    }
+
+    if(this._tagsHistory.length > 10){
+      this._tagsHistory.pop();
+    }
   }
 
 }
