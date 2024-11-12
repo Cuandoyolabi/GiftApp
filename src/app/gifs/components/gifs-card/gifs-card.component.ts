@@ -7,7 +7,7 @@ import { Gif } from '../../interfaces/gifs.interfaces';
 })
 export class GifsCardComponent implements OnInit {
   ngOnInit(): void {
-    if( !this.gif) throw new Error('Method not implemented.');
+    if( !this.gif ) throw new Error('Method not implemented.');
   }
 
   @Input()
