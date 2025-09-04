@@ -22,14 +22,14 @@ Imagen o GIF del proyecto funcionando
 8-Side menu. <br>
 
 ## Instalación 🔧
-1-Clonar el proyecto: git clone https://github.com/TUUSUARIO/GiftApp.git
-2-Entra a la carpeta del proyecto: cd GiftApp
-3-Es necesario usar los comandos:
-npm install -g @angular/li
-npm install
-Si te salen errores usando npm install, usa este comando primero:
-npm install tailwindcss@3
-Esto actualiza tailwind a su version correspondiente.
+1-Clonar el proyecto: git clone https://github.com/TUUSUARIO/GiftApp.git <br>
+2-Entra a la carpeta del proyecto: cd GiftApp <br>
+3-Es necesario usar los comandos: <br>
+npm install -g @angular/li <br>
+npm install <br>
+Si te salen errores usando npm install, usa este comando primero: <br>
+npm install tailwindcss@3 <br>
+Esto actualiza tailwind a su version correspondiente. <br>
 
 ## Uso 💡
 Es una aplicacion sencilla, tiene un buscador en la parte de arriba, escribe lo que deseas que aparezca y <br>
