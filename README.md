@@ -1,26 +1,36 @@
-# Nombre del Proyecto
-Breve descripción del proyecto
+# GiftsApp
+Aplicación de GIFs que se conecta a una API para mostrar resultados según tu búsqueda.
+Cuenta con un buscador para encontrar GIFs de tus temas favoritos y un historial que guarda tus búsquedas recientes para un acceso rápido.
 
 ## Capturas
 Imagen o GIF del proyecto funcionando
 
 ## Tecnologías 🔎
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Características 💎
-Característica 1
-Característica 2
-Característica 3
+1-Uso de Tailwind CSS.
+2-DIseño responsive.
+3-Historial de busqueda.
+4-Busqueda de Gifts.
+5-Enrutamiento.
+6-Lazy Loading.
+7-Uso de APi Giphy.
+8-Side menu.
 
 ## Instalación 🔧
-1-Clonar el proyecto: git clone https://github.com/TUUSUARIO/NOMBRE_DEL_REPO.git
-2-Entra a la carpeta del proyecto: cd NOMBRE_DEL_REPO
-3- Dependencias que usa el proyecto y como instalarlas:
+1-Clonar el proyecto: git clone https://github.com/TUUSUARIO/GiftApp.git
+2-Entra a la carpeta del proyecto: cd GiftApp
+3-Es necesario usar los comandos:
+npm install -g @angular/li
+npm install
 
 ## Uso 💡
-Cómo usar tu proyecto, con ejemplos
+Es una aplicacion sencilla, tiene un buscador en la parte de arriba, escribe lo que deseas que aparezca y <br>
+en segundos tendras muchos gifts, en el menu lateral izquierdo se guardara lo que busques.
 
 ## Demo 📌
 Link al demo
