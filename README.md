@@ -12,14 +12,14 @@ Imagen o GIF del proyecto funcionando
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Características 💎
-1-Uso de Tailwind CSS.
-2-DIseño responsive.
-3-Historial de busqueda.
-4-Busqueda de Gifts.
-5-Enrutamiento.
-6-Lazy Loading.
-7-Uso de APi Giphy.
-8-Side menu.
+1-Uso de Tailwind CSS. <br>
+2-DIseño responsive. <br>
+3-Historial de busqueda. <br>
+4-Busqueda de Gifts. <br>
+5-Enrutamiento. <br>
+6-Lazy Loading. <br>
+7-Uso de APi Giphy. <br>
+8-Side menu. <br>
 
 ## Instalación 🔧
 1-Clonar el proyecto: git clone https://github.com/TUUSUARIO/GiftApp.git
@@ -27,6 +27,9 @@ Imagen o GIF del proyecto funcionando
 3-Es necesario usar los comandos:
 npm install -g @angular/li
 npm install
+Si te salen errores usando npm install, usa este comando primero:
+npm install tailwindcss@3
+Esto actualiza tailwind a su version correspondiente.
 
 ## Uso 💡
 Es una aplicacion sencilla, tiene un buscador en la parte de arriba, escribe lo que deseas que aparezca y <br>
